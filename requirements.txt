@@ -1,0 +1,8 @@
+pandas>=3.0
+numpy>=2.5
+matplotlib>=3.11
+seaborn>=0.13
+certifi>=2026.7.22
+openpyxl>=3.1.5      # reads the original Excel file from UCI
+pyarrow>=26.0.0      # optional: faster, lower-memory string columns in pandas 3
+jupyter>=1.1.1
